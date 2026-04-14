@@ -7,4 +7,5 @@
 [Hw1 Part2](https://github.com/Perry0916/114-2-ProgramingLanguage/blob/main/HW1_日常支出速算與分攤_Gradio_Part2.ipynb)程式  
 [Hw2 Part1](https://github.com/Perry0916/114-2-ProgramingLanguage/blob/main/「HW2_成績一本通_ipynb」的副本.ipynb)程式  
 [Hw2 Part2](https://github.com/Perry0916/114-2-ProgramingLanguage/blob/main/「HW2_成績一本通_Part2_ipynb」的副本.ipynb)程式  
+[Hw2 Part2](https://youtu.be/e79Odg69qK8?si=K1TLeSH5Xngp-eVP)影片  
 
